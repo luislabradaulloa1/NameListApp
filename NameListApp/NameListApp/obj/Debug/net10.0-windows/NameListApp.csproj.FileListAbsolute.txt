@@ -1,0 +1,16 @@
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\bin\Debug\net10.0-windows\NameListApp.exe
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\bin\Debug\net10.0-windows\NameListApp.deps.json
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\bin\Debug\net10.0-windows\NameListApp.runtimeconfig.json
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\bin\Debug\net10.0-windows\NameListApp.dll
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\bin\Debug\net10.0-windows\NameListApp.pdb
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\obj\Debug\net10.0-windows\NameListApp.Form1.resources
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\obj\Debug\net10.0-windows\NameListApp.csproj.GenerateResource.cache
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\obj\Debug\net10.0-windows\NameListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\obj\Debug\net10.0-windows\NameListApp.AssemblyInfoInputs.cache
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\obj\Debug\net10.0-windows\NameListApp.AssemblyInfo.cs
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\obj\Debug\net10.0-windows\NameListApp.csproj.CoreCompileInputs.cache
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\obj\Debug\net10.0-windows\NameListApp.dll
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\obj\Debug\net10.0-windows\refint\NameListApp.dll
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\obj\Debug\net10.0-windows\NameListApp.pdb
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\obj\Debug\net10.0-windows\NameListApp.genruntimeconfig.cache
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\NameListApp\NameListApp\obj\Debug\net10.0-windows\ref\NameListApp.dll
